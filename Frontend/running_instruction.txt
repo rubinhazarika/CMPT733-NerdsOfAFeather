@@ -1,5 +1,5 @@
  python3 -m pip install streamlit
  python3 -m streamlit hello // to check if streamlit is installed properly
- python3 -m streamlit run app.py // to run our frontend
+ python3 -m streamlit run Frontend/app.py  // to run our frontend
 
  ps: the accept folder has dummy images to check the display functionality for time being.

@@ -3,9 +3,9 @@ import glob
 import streamlit as st
 from pathlib import Path
 
-UPLOAD_DIR = 'images'  # Directory where uploaded images will be saved
+UPLOAD_DIR = 'Frontend/images'  # Directory where uploaded images will be saved
 IMAGE_EXTENSIONS = ['png', 'jpg']  # List of accepted image file extensions
-DISPLAY_DIR = 'accept'  # Directory where displayed images will be saved
+DISPLAY_DIR = 'Frontend/accept'  # Directory where displayed images will be saved
 DISPLAY_COLUMNS = 5  # Number of columns in which to display images
 
 # Function to display saved images in columns
