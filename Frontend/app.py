@@ -3,6 +3,9 @@ import glob
 import streamlit as st
 from pathlib import Path
 
+
+from drivers.txtToTags import txtToTags
+
 UPLOAD_DIR = 'Frontend/images'  # Directory where uploaded images will be saved
 IMAGE_EXTENSIONS = ['png', 'jpg']  # List of accepted image file extensions
 DISPLAY_DIR = 'Frontend/accept'  # Directory where displayed images will be saved
@@ -56,6 +59,7 @@ if choice == "Image":
 if choice == "Text":
     st.title("Insert Your Text here!")
     text_input = st.text_input("Enter some text 👇")
+    if st.button('Submit'):
+        if text_input:
+            print(txtToTags(text_input))
 
-    if text_input:
-        pass
