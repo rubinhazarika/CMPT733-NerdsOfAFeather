@@ -1,13 +1,11 @@
 import numpy as np
 from PIL import Image
-import matplotlib.pyplot as plt
-import argparse
 from keras.models import Model, load_model
 from keras.applications.xception import Xception
 from tensorflow.keras.utils import pad_sequences
 from pickle import load
 from tensorflow.keras.applications import DenseNet201
-from tensorflow.keras.preprocessing.text import Tokenizer
+
 
 
 def extract_features(filename, model):
@@ -25,6 +23,7 @@ def extract_features(filename, model):
         image = image - 1.0
         feature = model.predict(image)
         return feature
+        
 def word_for_id(integer, tokenizer):
     for word, index in tokenizer.word_index.items():
          if index == integer:
@@ -45,21 +44,32 @@ def generate_desc(model, tokenizer, photo, max_length):
             break
     return in_text
 
-img_path = 'accept/test.jpg'
+
+def imgToTags(filename):
+
+    with open("drivers/tokenizer.p", "rb") as f:
+        tokenizer = load(f)
+    max_length = 39
+
+    caption_model = load_model('drivers/model.h5') 
+
+    img_path = 'temp/' + str(filename)
 
 
-DenseNet201_model = DenseNet201(include_top=False, pooling="avg")
+    DenseNet201_model = DenseNet201(include_top=False, pooling="avg")
 
-photo = extract_features(img_path, DenseNet201_model)
-img = Image.open(img_path)
-description = generate_desc(caption_model, tokenizer, photo, max_length)
-
-description = description.replace('start','')
-description = description.replace('endseq','')
-description = description.replace('is','')
+    photo = extract_features(img_path, DenseNet201_model)
 
 
+    description = generate_desc(caption_model, tokenizer, photo, max_length)
+    description = description.replace('start','')
+    description = description.replace('endseq','')
+    description = description.replace('is','')
 
-print("\n\n")
-print(description)
-plt.imshow(img)
+
+
+    tags = description.split(' ')
+    return tags
+
+
+

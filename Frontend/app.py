@@ -2,11 +2,17 @@ import os
 import glob
 import streamlit as st
 from pathlib import Path
+import nltk
 
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
 
 from drivers.txtToTags import txtToTags
+from drivers.imgToTags import imgToTags
 
-UPLOAD_DIR = 'Frontend/images'  # Directory where uploaded images will be saved
+
+
+UPLOAD_DIR = 'temp'  # Directory where uploaded images will be saved
 IMAGE_EXTENSIONS = ['png', 'jpg']  # List of accepted image file extensions
 DISPLAY_DIR = 'Frontend/accept'  # Directory where displayed images will be saved
 DISPLAY_COLUMNS = 5  # Number of columns in which to display images
@@ -26,6 +32,13 @@ with st.sidebar:
     choice = st.radio("Navigation", ["Text", "Image"])
     st.info("This is an application that can be used to generate images using text or other images as input")
 
+
+
+
+
+
+
+
 if choice == "Image":
     st.title("Upload your image!")
     file = st.file_uploader("Upload Your Image Here", IMAGE_EXTENSIONS)
@@ -39,6 +52,9 @@ if choice == "Image":
                 with open(save_path, mode='wb') as w:
                     w.write(file.getvalue())
                 if save_path.exists():
+                    tags = imgToTags(file.name)
+                    os.remove(save_path)
+                    print(tags)
                     st.success(f'File {file.name} is successfully saved!')
             except Exception as e:
                 st.error(f'Error saving file: {e}')
@@ -56,10 +72,18 @@ if choice == "Image":
         except Exception as e:
             st.error(f'Error displaying images: {e}')
 
+
+
+
+
+
+
 if choice == "Text":
     st.title("Insert Your Text here!")
     text_input = st.text_input("Enter some text 👇")
     if st.button('Submit'):
         if text_input:
-            print(txtToTags(text_input))
-
+            tags = txtToTags(text_input)
+            st.success(tags)
+            if st.button('Display Similar Images?'):
+                print("due")
