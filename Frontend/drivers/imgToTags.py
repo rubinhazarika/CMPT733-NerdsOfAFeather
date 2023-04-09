@@ -45,7 +45,7 @@ def generate_desc(model, tokenizer, photo, max_length):
     return in_text
 
 
-def imgToTags(filename):
+def imgToTags(filePath):
 
     with open("drivers/tokenizer.p", "rb") as f:
         tokenizer = load(f)
@@ -53,7 +53,7 @@ def imgToTags(filename):
 
     caption_model = load_model('drivers/model.h5') 
 
-    img_path = 'temp/' + str(filename)
+    img_path = str(filePath)
 
 
     DenseNet201_model = DenseNet201(include_top=False, pooling="avg")
@@ -69,6 +69,9 @@ def imgToTags(filename):
 
 
     tags = description.split(' ')
+    tags = [x for x in tags if x != '']
+
+    tags = list(set(tags))
     return tags
 
 
