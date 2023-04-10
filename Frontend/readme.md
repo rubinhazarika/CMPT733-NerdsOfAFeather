@@ -1,4 +1,6 @@
-#How to run
+How to run
+
+Make sure flickr30k-images folder is there in data folder
 
 ```
 conda env create -f environment.yml
