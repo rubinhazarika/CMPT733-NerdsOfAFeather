@@ -85,6 +85,8 @@ if choice == "Text":
             tags = txtToTags(text_input)
             st.write(tags)
 
+    
+            
             df = findSimilarImgs(tags, threshold = 0.8)
             st.write(df)
 

@@ -6,7 +6,6 @@ from nltk.tag import pos_tag
 from fuzzywuzzy import fuzz
 
 
-
 def findSimilarImgs(imgTags, threshold=0.60):
     user_tokens =  ' '.join(imgTags)
 
