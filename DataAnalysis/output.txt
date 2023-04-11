@@ -1,0 +1,101 @@
+image,tags
+COCO_val2014_000000000042.jpg, dog man holding are
+COCO_val2014_000000000073.jpg, young man are playing
+COCO_val2014_000000000074.jpg, bicycle man walks
+COCO_val2014_000000000133.jpg, man floor holding
+COCO_val2014_000000000136.jpg, dog white man holding
+COCO_val2014_000000000139.jpg, table woman room are sitting man
+COCO_val2014_000000000143.jpg, white
+COCO_val2014_000000000164.jpg, holding woman are man young
+COCO_val2014_000000000192.jpg, player baseball
+COCO_val2014_000000000196.jpg, woman are sitting young man
+COCO_val2014_000000000208.jpg, dog are woman playing
+COCO_val2014_000000000241.jpg, woman are sitting young man
+COCO_val2014_000000000257.jpg, man street people are
+COCO_val2014_000000000283.jpg, hand man holding
+COCO_val2014_000000000285.jpg, dog brown
+COCO_val2014_000000000294.jpg, hand man young holding
+COCO_val2014_000000000328.jpg, holding woman are man young
+COCO_val2014_000000000338.jpg, young man are playing
+COCO_val2014_000000000357.jpg, air jumping man
+COCO_val2014_000000000359.jpg, man people holding
+COCO_val2014_000000000360.jpg, air man holding
+COCO_val2014_000000000387.jpg, man young holding are
+COCO_val2014_000000000395.jpg, man people holding are
+COCO_val2014_000000000397.jpg, woman are man young playing
+COCO_val2014_000000000400.jpg, water man children are
+COCO_val2014_000000000415.jpg, tenn player
+COCO_val2014_000000000428.jpg, holding woman young girl
+COCO_val2014_000000000459.jpg, man people holding are
+COCO_val2014_000000000472.jpg, water man are playing
+COCO_val2014_000000000474.jpg, playing shirt blue man field
+COCO_val2014_000000000486.jpg, man woman holding are
+COCO_val2014_000000000488.jpg, player soccer ball
+COCO_val2014_000000000502.jpg, dog brown
+COCO_val2014_000000000520.jpg, water people are
+COCO_val2014_000000000536.jpg, woman are sitting young man
+COCO_val2014_000000000544.jpg, player football
+COCO_val2014_000000000564.jpg, air man are playing
+COCO_val2014_000000000569.jpg, man street holding are
+COCO_val2014_000000000589.jpg, are jumping man young playing
+COCO_val2014_000000000590.jpg, woman room are sitting man
+COCO_val2014_000000000599.jpg, boy man holding
+COCO_val2014_000000000623.jpg, man woman holding girl
+COCO_val2014_000000000626.jpg, man street people are
+COCO_val2014_000000000632.jpg, sitting are woman couch
+COCO_val2014_000000000636.jpg, sitting woman man are
+COCO_val2014_000000000641.jpg, holding people are street man
+COCO_val2014_000000000661.jpg, holding woman are dog man
+COCO_val2014_000000000675.jpg, man floor woman holding
+COCO_val2014_000000000692.jpg, holding woman young girl
+COCO_val2014_000000000693.jpg, holding woman sitting young man
+COCO_val2014_000000000699.jpg, boy man young holding
+COCO_val2014_000000000711.jpg, sitting are woman couch
+COCO_val2014_000000000715.jpg, sitting woman man are
+COCO_val2014_000000000724.jpg, man street woman walking
+COCO_val2014_000000000730.jpg, man street holding are
+COCO_val2014_000000000757.jpg, dog brown man running
+COCO_val2014_000000000761.jpg, man holding are snow
+COCO_val2014_000000000764.jpg, holding shirt white are blue girl man
+COCO_val2014_000000000772.jpg, shirt white man dog
+COCO_val2014_000000000775.jpg, boy man holding
+COCO_val2014_000000000776.jpg, dog brown
+COCO_val2014_000000000785.jpg, man red jacket snow
+COCO_val2014_000000000802.jpg, hand man holding
+COCO_val2014_000000000810.jpg, holding woman are sitting young man
+COCO_val2014_000000000827.jpg, woman white brown running dog
+COCO_val2014_000000000831.jpg, holding jeans blue man young
+COCO_val2014_000000000836.jpg, snowboarder
+COCO_val2014_000000000872.jpg, player baseball
+COCO_val2014_000000000873.jpg, man children holding are
+COCO_val2014_000000000885.jpg, tenn player
+COCO_val2014_000000000923.jpg, man train car
+COCO_val2014_000000000939.jpg, dog man holding
+COCO_val2014_000000000962.jpg, tenn ball player
+COCO_val2014_000000000969.jpg, man are children playing
+COCO_val2014_000000000974.jpg, man are children playing
+COCO_val2014_000000000985.jpg, man children holding are
+COCO_val2014_000000000987.jpg, boy man holding
+COCO_val2014_000000000999.jpg, player baseball
+COCO_val2014_000000001000.jpg, children woman are man playing
+COCO_val2014_000000001029.jpg, air man
+COCO_val2014_000000001063.jpg, white brown running dog man
+COCO_val2014_000000001064.jpg, dog man holding are
+COCO_val2014_000000001083.jpg, dog running
+COCO_val2014_000000001089.jpg, hand man holding
+COCO_val2014_000000001103.jpg, dog running
+COCO_val2014_000000001138.jpg, sitting are woman couch
+COCO_val2014_000000001146.jpg, hand man holding
+COCO_val2014_000000001149.jpg, man are children playing
+COCO_val2014_000000001153.jpg, man woman holding
+COCO_val2014_000000001164.jpg, dog brown water
+COCO_val2014_000000001171.jpg, man children holding are
+COCO_val2014_000000001176.jpg, young man are playing
+COCO_val2014_000000001180.jpg, holding woman are man young
+COCO_val2014_000000001205.jpg, woman are bench sitting man
+COCO_val2014_000000001228.jpg, dog brown man
+COCO_val2014_000000001244.jpg, water man fhing
+COCO_val2014_000000001268.jpg, water man people are
+COCO_val2014_000000001270.jpg, player ball
+COCO_val2014_000000001290.jpg, holding woman newborn sitting young man
+COCO_val2014_000000001292.jpg, holding woman are sitting young man
