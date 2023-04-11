@@ -1,0 +1,101 @@
+image,tags
+COCO_val2014_000000000042.jpg, air  holding  baby man is
+COCO_val2014_000000000073.jpg,  red riding  man bike helmet is shirt
+COCO_val2014_000000000074.jpg, ball red playing children are grass 
+COCO_val2014_000000000133.jpg, red ball  red boy playing  is young shirt
+COCO_val2014_000000000136.jpg,  red  man sitting bench is shirt
+COCO_val2014_000000000139.jpg,  playing children are bed
+COCO_val2014_000000000143.jpg, dog  running grass  is black
+COCO_val2014_000000000164.jpg,  red  man sitting bench is shirt
+COCO_val2014_000000000192.jpg, red  baseball player uniform playing is white baseball 
+COCO_val2014_000000000196.jpg,   man sitting bench is black shirt
+COCO_val2014_000000000208.jpg, are playing children grass 
+COCO_val2014_000000000241.jpg,   woman sitting bench is black shirt
+COCO_val2014_000000000257.jpg, front ocean  red standing  man is shirt
+COCO_val2014_000000000283.jpg, are playing children grass 
+COCO_val2014_000000000285.jpg, are playing dogs grass 
+COCO_val2014_000000000294.jpg, are girls standing grass 
+COCO_val2014_000000000328.jpg, front  red crowd standing  man is black white shirt
+COCO_val2014_000000000338.jpg, front standing jacket  man is store  black shirt
+COCO_val2014_000000000357.jpg,  red dog playing  man is shirt
+COCO_val2014_000000000359.jpg, front red standing  man is camera  shirt
+COCO_val2014_000000000360.jpg,  red railing  man is shirt jumping
+COCO_val2014_000000000387.jpg,  toy playing children are
+COCO_val2014_000000000395.jpg, front standing  man is store  black shirt
+COCO_val2014_000000000397.jpg,  red  man sitting bench is shirt
+COCO_val2014_000000000400.jpg,  jacket  man sitting bench is black
+COCO_val2014_000000000415.jpg,  ball red  boy uniform kicks white
+COCO_val2014_000000000428.jpg, red ball  red boy playing  is young shirt
+COCO_val2014_000000000459.jpg, front standing  man is store  black shirt
+COCO_val2014_000000000472.jpg,  jacket pond edge  man sitting is black
+COCO_val2014_000000000474.jpg, red ball  red playing  boy is shirt
+COCO_val2014_000000000486.jpg,   man sitting bench is black shirt
+COCO_val2014_000000000488.jpg, playing  boys are soccer grass 
+COCO_val2014_000000000502.jpg, are playing dogs grass 
+COCO_val2014_000000000520.jpg, people water  dock  are sitting overlooking
+COCO_val2014_000000000536.jpg,  women are sitting bench
+COCO_val2014_000000000544.jpg, red  baseball player uniform playing is white baseball 
+COCO_val2014_000000000564.jpg, field  playing  are men soccer
+COCO_val2014_000000000569.jpg,  red  man sitting bench is shirt
+COCO_val2014_000000000589.jpg, are playing children grass 
+COCO_val2014_000000000590.jpg, are playing beach  children
+COCO_val2014_000000000599.jpg, dog  running grass  is
+COCO_val2014_000000000623.jpg,  toy playing children are
+COCO_val2014_000000000626.jpg, are playing beach  children
+COCO_val2014_000000000632.jpg, running grass  is  dog
+COCO_val2014_000000000636.jpg, are playing beach  children
+COCO_val2014_000000000641.jpg, front red standing  man is camera  shirt
+COCO_val2014_000000000661.jpg, are playing children grass 
+COCO_val2014_000000000675.jpg, running grass  is  dog
+COCO_val2014_000000000692.jpg,  red playing children are flowers white
+COCO_val2014_000000000693.jpg,  stairs  boy is jumping
+COCO_val2014_000000000699.jpg, ground  red crossed  man sitting is arms shirt
+COCO_val2014_000000000711.jpg, ground red  man sitting arm is camera  shirt
+COCO_val2014_000000000715.jpg, front standing  man is camera  black shirt
+COCO_val2014_000000000724.jpg, red riding  man bicycle is street  shirt
+COCO_val2014_000000000730.jpg, front  red standing building  man is shirt
+COCO_val2014_000000000757.jpg, front ocean  red standing  man is shirt
+COCO_val2014_000000000761.jpg, red standing jacket snowy mountain   man is
+COCO_val2014_000000000764.jpg, field  playing  are men soccer
+COCO_val2014_000000000772.jpg, soccer ball playing are grass  dogs
+COCO_val2014_000000000775.jpg, unicycle  red riding jacket  man helmet is
+COCO_val2014_000000000776.jpg,  are sitting bed girls
+COCO_val2014_000000000785.jpg,   skier snowboarding is
+COCO_val2014_000000000802.jpg, are playing children grass 
+COCO_val2014_000000000810.jpg,  red  man sitting sidewalk is shirt
+COCO_val2014_000000000827.jpg,  red  man sitting bench is shirt
+COCO_val2014_000000000831.jpg, bicycle  does  man tricks
+COCO_val2014_000000000836.jpg, pants red  man is mountain  climbing
+COCO_val2014_000000000872.jpg, field  playing  are men baseball
+COCO_val2014_000000000873.jpg,   man sitting bench is white shirt
+COCO_val2014_000000000885.jpg,  red basketball playing  boy shorts is white shirt
+COCO_val2014_000000000923.jpg,  people standing  are sidewalk
+COCO_val2014_000000000939.jpg,   man sitting bench is black shirt
+COCO_val2014_000000000962.jpg,  tennis player running court  is white
+COCO_val2014_000000000969.jpg, red playing  boy soccer ball  is shirt
+COCO_val2014_000000000974.jpg, front red standing  man is camera  shirt
+COCO_val2014_000000000985.jpg, front red standing  man is camera  shirt
+COCO_val2014_000000000987.jpg, red  man sitting grass  is shirt
+COCO_val2014_000000000999.jpg,  ball red  baseball player uniform kicks
+COCO_val2014_000000001000.jpg, front jeans  crowd standing  man is white shirt
+COCO_val2014_000000001029.jpg, nose ground  red  man sitting is shirt
+COCO_val2014_000000001063.jpg, air  playing frisbee are dogs
+COCO_val2014_000000001064.jpg, running water  is  dog
+COCO_val2014_000000001083.jpg, soccer ball playing are grass  dogs
+COCO_val2014_000000001089.jpg, front standing  man is store  black shirt
+COCO_val2014_000000001103.jpg, running water  is  dog
+COCO_val2014_000000001138.jpg, are playing beach  children
+COCO_val2014_000000001146.jpg, front standing  man is store  black shirt
+COCO_val2014_000000001149.jpg, front  crowd standing  man is black white shirt
+COCO_val2014_000000001153.jpg, ground red head resting  man sitting is finger  shirt
+COCO_val2014_000000001164.jpg, people water  standing  edge are
+COCO_val2014_000000001171.jpg, ground  red crossed  man sitting is arms shirt
+COCO_val2014_000000001176.jpg, red riding  man is street  shirt
+COCO_val2014_000000001180.jpg, front red standing  man is camera  shirt
+COCO_val2014_000000001205.jpg, are playing beach  children
+COCO_val2014_000000001228.jpg,  red  man sitting bench is shirt
+COCO_val2014_000000001244.jpg, people water  dock  are sitting overlooking
+COCO_val2014_000000001268.jpg, front people water   are sitting bench
+COCO_val2014_000000001270.jpg, field  playing  are men baseball
+COCO_val2014_000000001290.jpg,  are sitting bed girls
+COCO_val2014_000000001292.jpg, red playing children are ball  white
